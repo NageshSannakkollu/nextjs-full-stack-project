@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "19.0.0-rc-02c0e824-20241028",
+    "date-fns": "^4.1.0",
+    "mongoose": "^8.8.0",
+    "next": "15.0.2",
+    "next-auth": "^5.0.0-beta.25",
+    "react": "^19.0.0-rc-02c0e824-20241028",
+    "react-date-range": "^2.0.1",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
-    "next": "15.0.2"
+    "react-loader-spinner": "^6.1.6"
   },
   "devDependencies": {
     "eslint": "^8",
